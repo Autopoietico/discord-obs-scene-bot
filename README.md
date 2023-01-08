@@ -9,7 +9,7 @@
    clientId=   
    guildId=
    ```
-  The bot uses obs-websocket to changes the scenes you need to active the server websocket and introduce the login data throught the bot with the /add-login-data command
+  The bot uses obs-websocket to changes the scenes, you need to active the server websocket and introduce the login data throught the bot with the /add-login-data command
   
   Commands:
   >/stream-channel tracks a voice channel though his channel id  

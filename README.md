@@ -1,5 +1,5 @@
 # discord-obs-scene-bot
- This bot is designed to trigger certain scenes in OBS according to the users that are connected in a voice room.
+ Bot create with Node.js that is designed to trigger certain scenes in OBS according to the users that are connected in a voice room.
 
   You need to create a bot here if you want to use the bot: https://discord.com/developers/applications
   
